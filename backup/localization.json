@@ -1,0 +1,8996 @@
+{
+	"Hoja1": [
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN MARKETING (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CUSTOMER EXPERIENCE",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CLOUD ADMINISTRATION",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN FINANZAS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CLOUD ADMINISTRATION",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN AGILE COACHING",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN FINANZAS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INBOUND MARKETING",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CUSTOMER EXPERIENCE",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CUSTOMER EXPERIENCE",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN RECLUTAMIENTO Y ATRACCIÓN DE TALENTO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN REDES INFORMÁTICAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN MARKETING (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN QUALITY ASSURANCE (QA)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN FINANZAS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN REDES INFORMÁTICAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN RECLUTAMIENTO Y ATRACCIÓN DE TALENTO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN REDES INFORMÁTICAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PUBLICIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN FINANZAS (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN RECLUTAMIENTO Y ATRACCIÓN DE TALENTO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN QUALITY ASSURANCE (QA)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN FINANZAS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN REDES INFORMÁTICAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN RECLUTAMIENTO Y ATRACCIÓN DE TALENTO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN RECLUTAMIENTO Y ATRACCIÓN DE TALENTO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN QUALITY ASSURANCE (QA)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN RECLUTAMIENTO Y ATRACCIÓN DE TALENTO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN USER EXPERIENCE (UX)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN MARKETING (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SOCIAL MEDIA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN REDES INFORMÁTICAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN REDES INFORMÁTICAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN USER EXPERIENCE (UX)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN QUALITY ASSURANCE (QA)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PUBLICIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN RECLUTAMIENTO Y ATRACCIÓN DE TALENTO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN FINANZAS (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN FINANZAS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN PUBLICIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN RECLUTAMIENTO Y ATRACCIÓN DE TALENTO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN USER EXPERIENCE (UX)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CLOUD ADMINISTRATION",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CUSTOMER EXPERIENCE",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SOCIAL MEDIA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CLOUD ADMINISTRATION",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CUSTOMER EXPERIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN REDES INFORMÁTICAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN FINANZAS (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CUSTOMER EXPERIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PUBLICIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CUSTOMER EXPERIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN RECLUTAMIENTO Y ATRACCIÓN DE TALENTO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN QUALITY ASSURANCE (QA)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SOCIAL MEDIA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN QUALITY ASSURANCE (QA)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN RECLUTAMIENTO Y ATRACCIÓN DE TALENTO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN AGILE COACHING",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PROGRAMACIÓN",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN USER EXPERIENCE (UX)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN MARKETING (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN QUALITY ASSURANCE (QA)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CUSTOMER EXPERIENCE",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PSICOPEDAGOGÍA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN FINANZAS (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN QUALITY ASSURANCE (QA)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN FINANZAS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN MARKETING (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN USER EXPERIENCE (UX)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN QUALITY ASSURANCE (QA)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN AGILE COACHING",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN QUALITY ASSURANCE (QA)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DATA SCIENCE",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN FINANZAS (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CLOUD ADMINISTRATION",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CLOUD ADMINISTRATION",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN MARKETING (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN REDES INFORMÁTICAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CLOUD ADMINISTRATION",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN USER EXPERIENCE (UX)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN PUBLICIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO JURÍDICO EN GESTIÓN JUDICIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CUSTOMER EXPERIENCE",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "SERVICIO SOCIAL (PLAN ESPECIAL)",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA INDUSTRIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN CONTROL DE GESTIÓN",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN GESTIÓN TURÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN COMERCIO EXTERIOR",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "ANALISTA DE SISTEMAS",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN PÚBLICA Y MUNICIPAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ADMINISTRACIÓN PÚBLICA",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN ANIMACIÓN DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN INFORMÁTICA",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "DISEÑO GRÁFICO DIGITAL",
+			"nps": "Neutro"
+		},
+		{
+			"Carrera": "TÉCNICO EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN DISEÑO GRÁFICO DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN SERVICIO SOCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CONTROL DE LA PRODUCCIÓN INDUSTRIAL",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR AUDITOR",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN LOGÍSTICA",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "CONTADOR GENERAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN DIFERENCIAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN EDUCACIÓN PARVULARIA Y PRIMER CICLO BÁSICO",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "PUBLICIDAD EN MARKETING DIGITAL",
+			"nps": "Promotor"
+		},
+		{
+			"Carrera": "TÉCNICO EN CIBERSEGURIDAD",
+			"nps": "Detractor"
+		},
+		{
+			"Carrera": "INGENIERÍA EN ADMINISTRACIÓN DE EMPRESAS MENCIÓN RECURSOS HUMANOS (PLAN ESPECIAL)",
+			"nps": "Promotor"
+		}
+	]
+}
