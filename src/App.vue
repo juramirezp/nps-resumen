@@ -134,7 +134,7 @@ const procesarData = (localization) => {
 		dataResumen.cantPromotores = cantidadPromotores;
 		let porcentajePromotores = (
 			(100 * result[title].filter((item) => item.nps == "Promotor").length) /
-			localization.length
+			result[title].length
 		).toFixed(1);
 		console.log("Porcentaje de promotores del total: ", porcentajePromotores);
 		dataResumen.porcPromotores = porcentajePromotores;
@@ -145,7 +145,7 @@ const procesarData = (localization) => {
 		dataResumen.cantNeutros = cantidadNeutros;
 		let porcentajeNeutros = (
 			(100 * result[title].filter((item) => item.nps == "Neutro").length) /
-			localization.length
+			result[title].length
 		).toFixed(1);
 		console.log("Porcentaje de neutros del total: ", porcentajeNeutros);
 		dataResumen.porcNeutros = porcentajeNeutros;
@@ -156,7 +156,7 @@ const procesarData = (localization) => {
 		dataResumen.cantDestractores = cantidadDetractores;
 		let porcentajeDetractores = (
 			(100 * result[title].filter((item) => item.nps == "Detractor").length) /
-			localization.length
+			result[title].length
 		).toFixed(1);
 		console.log("Porcentaje de detractores del total: ", porcentajeDetractores);
 		dataResumen.porcDetractores = porcentajeDetractores;
