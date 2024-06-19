@@ -1,5 +1,9 @@
 <template>
-	<h1>Adjuntar Archivo Excel</h1>
+	<div class="alert alert-warning" role="alert">
+		<strong>NOTA IMPORTANTE:</strong>
+		las columnas deben llamarse 'Carreras' y 'nps' respectivamente
+	</div>
+	<h2 class="mt-3">Adjuntar Archivo Excel</h2>
 	<div class="mb-3 col-5 mx-auto">
 		<input class="form-control" type="file" id="formFile" @change="onFileChange" />
 	</div>
@@ -10,9 +14,9 @@
 		<thead>
 			<tr>
 				<th>Total Respuestas</th>
-				<th>Detractores</th>
-				<th>Neutros</th>
-				<th>Promotores</th>
+				<th>Total Detractores</th>
+				<th>Total Neutros</th>
+				<th>Total Promotores</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -49,7 +53,9 @@
 				<td>{{ item.porcNeutros }}</td>
 				<td>{{ item.cantPromotores }}</td>
 				<td>{{ item.porcPromotores }}</td>
-				<td>{{ item.resultadoNps }}</td>
+				<td :class="{ 'text-success': item.resultadoNps > 0, 'text-danger': item.resultadoNps < 0 }">
+					<strong>{{ item.resultadoNps }}</strong>
+				</td>
 			</tr>
 		</tbody>
 	</table>
