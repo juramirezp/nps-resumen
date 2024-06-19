@@ -41,6 +41,7 @@
 				<th>Promotores Cant.</th>
 				<th>Promotores %</th>
 				<th>Resultado NPS</th>
+				<th>Representatividad</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -56,6 +57,7 @@
 				<td :class="{ 'text-success': item.resultadoNps > 0, 'text-danger': item.resultadoNps < 0 }">
 					<strong>{{ item.resultadoNps }}</strong>
 				</td>
+				<td>{{ item.representatividad }}</td>
 			</tr>
 		</tbody>
 	</table>
@@ -119,6 +121,7 @@ const procesarData = (localization) => {
 			cantDestractores: 0,
 			porcDetractores: 0,
 			resultadoNps: 0,
+			representatividad: 0,
 		};
 
 		console.log(title);
@@ -163,6 +166,10 @@ const procesarData = (localization) => {
 		console.log("---");
 		console.log("Resultado NPS: ", (parseFloat(porcentajePromotores) - parseFloat(porcentajeDetractores)).toFixed(1));
 		dataResumen.resultadoNps = (parseFloat(porcentajePromotores) - parseFloat(porcentajeDetractores)).toFixed(1);
+
+		// Representatividad
+		let representatividad = ((cantidadrespuestas * 100) / localization.length).toFixed(1);
+		dataResumen.representatividad = representatividad;
 
 		// Separacion
 		console.log("--------------------");
