@@ -1,16 +1,19 @@
 <template>
-	<div class="alert alert-warning" role="alert">
+	<!-- <div class="alert alert-warning" role="alert">
 		<strong>NOTA IMPORTANTE:</strong>
 		las columnas deben llamarse 'Carreras' y 'nps' respectivamente
-	</div>
+	</div> -->
 	<h2 class="mt-3">Adjuntar Archivo Excel</h2>
 	<div class="mb-3 col-5 mx-auto">
 		<input class="form-control" type="file" id="formFile" @change="onFileChange" />
 	</div>
+	<button type="button" class="btn btn-primary px-5 mt-2" @click="isGenerated = true" :disabled="isGenerated">
+		Procesar
+	</button>
 
-	<button type="button" class="btn btn-primary btn-exportar" @click="exportTableToExcel">Exportar</button>
+	<button type="button" class="btn btn-success btn-exportar" @click="exportTableToExcel">Exportar</button>
 
-	<table class="table table-bordered mt-5">
+	<table class="table table-bordered mt-5" v-if="isGenerated">
 		<thead>
 			<tr>
 				<th>Total Respuestas</th>
@@ -29,7 +32,7 @@
 		</tbody>
 	</table>
 
-	<table class="table table-bordered mt-5" id="tabla-resumen">
+	<table class="table table-bordered mt-5" id="tabla-resumen" v-if="isGenerated">
 		<thead>
 			<tr>
 				<th>Carrera</th>
@@ -68,6 +71,17 @@ import { ref } from "vue";
 import * as XLSX from "xlsx";
 import { saveAs } from "file-saver";
 
+const clearData = () => {
+	dataGeneral.value = {
+		total: 0,
+		detractores: 0,
+		neutros: 0,
+		promotores: 0,
+	};
+	dataResumenTabla.value = [];
+	isGenerated.value = false;
+};
+
 const exportTableToExcel = () => {
 	let table = document.getElementById("tabla-resumen");
 	let wb = XLSX.utils.table_to_book(table, { sheet: "Sheet JS" });
@@ -76,6 +90,7 @@ const exportTableToExcel = () => {
 	let view = new Uint8Array(buf);
 	for (let i = 0; i < wbout.length; i++) view[i] = wbout.charCodeAt(i) & 0xff;
 	saveAs(new Blob([buf], { type: "application/octet-stream" }), "resumenNps" + ".xlsx");
+	isGenerated.value = true;
 };
 
 let selectedFile = ref(null);
@@ -87,8 +102,10 @@ const dataGeneral = ref({
 	promotores: 0,
 });
 const dataResumenTabla = ref([]);
+const isGenerated = ref(false);
 
 const onFileChange = (e) => {
+	clearData();
 	selectedFile.value = e.target.files[0];
 	let reader = new FileReader();
 	reader.onload = function (event) {
@@ -96,7 +113,13 @@ const onFileChange = (e) => {
 		let workbook = XLSX.read(data, { type: "array" });
 		let firstSheetName = workbook.SheetNames[0];
 		let worksheet = workbook.Sheets[firstSheetName];
-		let jsonData = XLSX.utils.sheet_to_json(worksheet, { header: "1" });
+		let jsonData = XLSX.utils.sheet_to_json(worksheet, {
+			header: ["Carrera", "nps"],
+			range: "A2:B10000",
+			blankRows: false,
+		});
+		// let jsonData = XLSX.utils.sheet_to_json(worksheet);
+		// let jsonData = XLSX.utils.sheet_to_json(worksheet, { header: "1" });
 		console.log(jsonData);
 		jsonResult.value = jsonData;
 		procesarData(jsonResult.value);
